@@ -1,0 +1,18 @@
+.country {
+    margin: 20px 0;
+    padding: 10px 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.country img {
+    width: 80%;
+}
+
+.country a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+}
